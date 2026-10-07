@@ -6,32 +6,17 @@ permalink: /about/
 
 ## About Me
 
-Hi! I'm a programmer passionate about building efficient and elegant software solutions.
+I’m Ignacio, a full-stack developer and ML/DS engineer. I have my own project, **the last day before the deadline (c)**, where I build production-ready product prototypes to solve consumer and business problems.   
 
-This blog is where I share my thoughts and experiences on software development, with a focus on:
+This blog will feature news and notes about my project and my products.
 
-- **Django & Python** - Backend development and best practices
-- **Performance Optimization** - Making applications faster and more efficient
-- **Web Technologies** - Modern web development techniques
-- **Database Design** - Efficient data modeling and querying
+## Philosophy
 
-## Why This Blog?
+The project **the last day before the deadline (c)** has a manifesto:
+1. A prototype must solve a real problem and benefit people.
+2. MVP lead time – two weekends; release and demo on Monday.
+3. Mandatory prototype testing in every environment, accounting for potential load.
+4. The prototype’s infrastructure provides full observability. Errors and incidents are recorded immediately, and there is a working recovery plan.
+5. Perfectionism has no place here.
 
-I created this blog to document my learning journey and share knowledge with the developer community. Whether you're a beginner or an experienced developer, I hope you'll find something useful here.
-
-## Get in Touch
-
-Feel free to connect with me on:
-
-{% include social-icons.html %}
-
-## About This Site
-
-This site is built with Jekyll and deployed on GitHub Pages. It features:
-
-- Dark theme for comfortable reading
-- Atkinson Hyperlegible font for accessibility
-- Syntax highlighting for code examples
-- Responsive design for all devices
-
-Thanks for visiting!
+The day will come when the project has 10 subscribers.  
