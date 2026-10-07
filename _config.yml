@@ -7,13 +7,7 @@ first_name: Ignacio
 last_name: M
 greeting: "Hello, world!"
 tagline: "Hi! I’m Ignacio, a full-stack developer and ML/DS engineer. I have my own project, **the last day before the deadline (c)**, where I build production-ready product prototypes to solve consumer and business problems. This blog will feature news and notes about my project and my products.\n
-The project **the last day before the deadline (c)** has a manifesto:\n
-1. A prototype must solve a real problem and benefit people.\n
-2. MVP lead time – two weekends; release and demo on Monday.\n
-3. Mandatory prototype testing in every environment, accounting for potential load.\n
-4. The prototype’s infrastructure provides full observability. Errors and incidents are recorded immediately, and there is a working recovery plan.\n
-5. Perfectionism has no place here.\n
-The day will come when the project has 10 subscribers."
+The project **the last day before the deadline (c)** has a manifesto:\n1. A prototype must solve a real problem and benefit people.\n2. MVP lead time – two weekends; release and demo on Monday.\n3. Mandatory prototype testing in every environment, accounting for potential load.\n4. The prototype’s infrastructure provides full observability. Errors and incidents are recorded immediately, and there is a working recovery plan.\n5. Perfectionism has no place here.\nThe day will come when the project has 10 subscribers."
 email: your-email@example.com
 
 description: >- # the ">" symbol means to ignore newlines
