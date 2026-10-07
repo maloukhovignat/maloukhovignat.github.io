@@ -6,9 +6,7 @@ title: Ignacio M
 first_name: Ignacio
 last_name: M
 greeting: "Hello, world!"
-tagline: |
-    first
-    sec
+tagline: "Hi! I’m Ignacio, a full-stack developer and ML/DS engineer.:
 email: your-email@example.com
 
 description: >- # the ">" symbol means to ignore newlines
